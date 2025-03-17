@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shapes -->
+  <circle cx="400" cy="300" r="250" fill="#f0f9ff" fill-opacity="0.1"/>
+  <circle cx="400" cy="300" r="200" fill="#e0f2fe" fill-opacity="0.1"/>
+  
+  <!-- People silhouettes -->
+  <g transform="translate(250, 200)">
+    <!-- Person 1 -->
+    <path d="M0 100 C0 44.77 44.77 0 100 0 C155.23 0 200 44.77 200 100 V200 H0 V100Z" fill="#bae6fd" fill-opacity="0.5"/>
+    <circle cx="100" cy="50" r="30" fill="#7dd3fc"/>
+    
+    <!-- Person 2 -->
+    <path d="M220 120 C220 64.77 264.77 20 320 20 C375.23 20 420 64.77 420 120 V220 H220 V120Z" fill="#c4b5fd" fill-opacity="0.5"/>
+    <circle cx="320" cy="70" r="30" fill="#a78bfa"/>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="150" cy="150" r="10" fill="#0ea5e9"/>
+  <circle cx="650" cy="450" r="15" fill="#8b5cf6"/>
+  <circle cx="200" cy="500" r="8" fill="#0ea5e9"/>
+  <circle cx="600" cy="100" r="12" fill="#8b5cf6"/>
+</svg> 

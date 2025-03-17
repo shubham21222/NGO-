@@ -41,7 +41,7 @@ export default function Hero() {
               {/* Main Image */}
               <div className="relative w-full h-full rounded-2xl overflow-hidden">
                 <Image
-                  src="/images/hero-image.jpg"
+                  src="https://badlaavfoundation.in/wp-content/uploads/2022/04/Badlaav-Foundation-Hero-.jpg"
                   alt="Community impact"
                   fill
                   className="object-cover transform transition-transform duration-700 group-hover:scale-110"
